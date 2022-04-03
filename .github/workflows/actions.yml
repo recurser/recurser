@@ -124,7 +124,7 @@ jobs:
           plugin_followup: yes
           plugin_languages: yes
           # Ignore WordPress plugins etc
-          plugin_languages_ignored: php
+          plugin_languages_ignored: html,php
 
           
   repositories:
