@@ -29,4 +29,8 @@
   <a href="https://github.com/recurser">
     <img align="center" width="60%" src="./achievements.svg" />
   </a>
+
+  <a href="https://github.com/recurser">
+    <img align="center" width="60%" src="./followers.svg" />
+  </a>
 </p>
