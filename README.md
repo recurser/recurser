@@ -49,6 +49,12 @@
 
 <p align="center">
   <a href="https://github.com/recurser">
+    <img align="center" width="60%" src="./recently-starred.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/recurser">
     <img align="center" width="60%" src="./achievements.svg" />
   </a>
   <br />
@@ -57,10 +63,5 @@
 <p align="center">
   <a href="https://github.com/recurser">
     <img align="center" width="60%" src="./followers.svg" />
-  </a>
-
-<p align="center">
-  <a href="https://github.com/recurser">
-    <img align="center" width="60%" src="./recently-starred.svg" />
   </a>
 </p>
