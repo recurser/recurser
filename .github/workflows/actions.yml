@@ -167,3 +167,14 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers
+
+  recently_starred:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: recently-starred.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 5
