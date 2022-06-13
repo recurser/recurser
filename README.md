@@ -23,12 +23,6 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@recurser">
-    <img align="center" width="60%" src="./wakatime.svg" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/recurser">
     <img align="center" width="60%" src="./github-habits.svg" />
   </a>
@@ -51,3 +45,4 @@
     <img align="center" width="60%" src="./followers.svg" />
   </a>
 </p>
+
