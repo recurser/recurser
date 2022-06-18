@@ -195,17 +195,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 39.74394096106002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">50%</span>
+                                <div class="bar" style="width: 39.44249735104735%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 38.795739803762615%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">48%</span>
+                                <div class="bar" style="width: 39.13820740619991%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.4919911665222374%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.4781699133317032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
