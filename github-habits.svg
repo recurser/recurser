@@ -194,18 +194,18 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 39.44910765218808%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="name">Go</span>
+                                <div class="bar" style="width: 39.34881180005463%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">49%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Go</span>
-                                <div class="bar" style="width: 39.131828430174124%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="name">TypeScript</span>
+                                <div class="bar" style="width: 39.224255667850315%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.4780919783772037%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.4807429664026222%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
