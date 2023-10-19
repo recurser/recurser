@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elliotchance/orderedmap</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.</div>
