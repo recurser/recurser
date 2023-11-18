@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elliotchance/orderedmap</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Oct 19 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.</div>
