@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>VincenzoManto/light-release</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight tool to automate your release process, compatible with conventional commit messages. It reads your commit history, determines the release type, and generates release notes without unnecessary dependencies.</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pzavolinsky/ts-unused-exports</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ts-unused-exports finds unused exported symbols in your Typescript project</div>
