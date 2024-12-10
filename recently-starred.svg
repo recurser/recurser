@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apify/crawlee</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withcatai/node-llama-cpp</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level</div>
