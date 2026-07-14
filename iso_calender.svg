@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~63.66
+                            Average per day at ~63.77
                         </div>
                     </section>
                 </div>
@@ -805,32 +805,32 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.930417495029821 0,1.9304174950298212 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9304174950298212 1.7,2.930417495029821 z"/>
                             </g>
-                            <g transform="translate(-10.2, 10.807157057654075)">
+                            <g transform="translate(-10.2, 10.771371769383698)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1928429423459246 0,2.1928429423459246 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1928429423459246 1.7,3.1928429423459246 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.228628230616302 0,2.228628230616302 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.228628230616302 1.7,3.228628230616302 z"/>
                             </g>
                         </g>
                         <g transform="translate(34, 20)">
-                            <g transform="translate(0, 5.21272365805169)">
+                            <g transform="translate(0, 5.20079522862823)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.78727634194831 0,1.7872763419483102 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7872763419483102 1.7,2.78727634194831 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7992047713717696 0,1.7992047713717694 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7992047713717694 1.7,2.7992047713717696 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.950298210735586)">
+                            <g transform="translate(-1.7, 5.90258449304175)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0497017892644136 0,2.0497017892644136 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0497017892644136 1.7,3.0497017892644136 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0974155069582503 0,2.0974155069582503 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0974155069582503 1.7,3.0974155069582503 z"/>
                             </g>
-                            <g transform="translate(-3.4, 6.878727634194831)">
+                            <g transform="translate(-3.4, 6.854870775347912)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.121272365805169 0,2.121272365805169 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.121272365805169 1.7,3.121272365805169 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1451292246520874 0,2.1451292246520874 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1451292246520874 1.7,3.1451292246520874 z"/>
                             </g>
-                            <g transform="translate(-5.1, 7.640159045725646)">
+                            <g transform="translate(-5.1, 7.616302186878727)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.359840954274354 0,2.359840954274354 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.359840954274354 1.7,3.359840954274354 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3836978131212723 0,2.3836978131212723 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3836978131212723 1.7,3.3836978131212723 z"/>
                             </g>
                             <g transform="translate(-6.8, 8.628230616302186)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -854,15 +854,15 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.644135188866799 0,1.6441351888667992 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6441351888667992 1.7,2.644135188866799 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.723658051689862)">
+                            <g transform="translate(-1.7, 5.699801192842942)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2763419483101393 0,2.2763419483101393 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2763419483101393 1.7,3.2763419483101393 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3001988071570576 0,2.3001988071570576 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3001988071570576 1.7,3.3001988071570576 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.21272365805169)">
+                            <g transform="translate(-3.4, 7.188866799204772)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.78727634194831 0,1.7872763419483102 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7872763419483102 1.7,2.78727634194831 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8111332007952288 0,1.8111332007952288 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8111332007952288 1.7,2.8111332007952288 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.451292246520875)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -911,10 +911,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4433399602385686 0,2.4433399602385686 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4433399602385686 1.7,3.4433399602385686 z"/>
                             </g>
-                            <g transform="translate(-8.5, 9.771371769383698)">
+                            <g transform="translate(-8.5, 9.747514910536779)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.228628230616302 0,2.228628230616302 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.228628230616302 1.7,3.228628230616302 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.252485089463221 0,2.252485089463221 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.252485089463221 1.7,3.252485089463221 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.68986083499006)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -933,15 +933,15 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9423459244532806 0,1.9423459244532804 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9423459244532804 1.7,2.9423459244532806 z"/>
                             </g>
-                            <g transform="translate(-3.4, 6.198807157057654)">
+                            <g transform="translate(-3.4, 6.186878727634195)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.801192842942346 0,2.801192842942346 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.801192842942346 1.7,3.801192842942346 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.8131212723658052 0,2.8131212723658052 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.8131212723658052 1.7,3.8131212723658052 z"/>
                             </g>
-                            <g transform="translate(-5.1, 6.7335984095427435)">
+                            <g transform="translate(-5.1, 6.721669980119284)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.2664015904572565 0,3.2664015904572565 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2664015904572565 1.7,4.2664015904572565 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.278330019880716 0,3.2783300198807157 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2783300198807157 1.7,4.278330019880716 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.399602385685885)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
